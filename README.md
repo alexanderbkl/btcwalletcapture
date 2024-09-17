@@ -45,3 +45,7 @@ To launch the script run:
 
 
 unfortunately, though, it seems that other developers have looked into this so up until now I wasn't able to find any with a balance, but the transaction lists that span from the beginning of bitcoin's popularization are cool though and the private keys of those accounts, i.e. all 666666 that has a transfer with the amount of 666 or a priv key that has 1111 numbers with 1234 satoshi transfered in it
+
+
+
+![](https://komarev.com/ghpvc/?username=fkreddmods&color=lightgrey&style=for-the-badge)
